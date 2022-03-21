@@ -1,0 +1,100 @@
+Program state
+ID: 1 
+Exe Stack: {(int v;(v=2;print(v))) | } 
+Sym Table:  
+Heap:  
+Output Console:  
+File Table:  
+ 
+
+
+Program state
+ID: 1 
+Exe Stack: {(v=2;print(v)) | int v | } 
+Sym Table:  
+Heap:  
+Output Console:  
+File Table:  
+ 
+
+
+Program state
+ID: 1 
+Exe Stack: {(v=2;print(v)) | int v | } 
+Sym Table:  
+Heap:  
+Output Console:  
+File Table:  
+ 
+
+
+Program state
+ID: 1 
+Exe Stack: {(v=2;print(v)) | } 
+Sym Table: v->0,  
+Heap:  
+Output Console:  
+File Table:  
+ 
+
+
+Program state
+ID: 1 
+Exe Stack: {(v=2;print(v)) | } 
+Sym Table: v->0,  
+Heap:  
+Output Console:  
+File Table:  
+ 
+
+
+Program state
+ID: 1 
+Exe Stack: {print(v) | v=2 | } 
+Sym Table: v->0,  
+Heap:  
+Output Console:  
+File Table:  
+ 
+
+
+Program state
+ID: 1 
+Exe Stack: {print(v) | v=2 | } 
+Sym Table: v->0,  
+Heap:  
+Output Console:  
+File Table:  
+ 
+
+
+Program state
+ID: 1 
+Exe Stack: {print(v) | } 
+Sym Table: v->2,  
+Heap:  
+Output Console:  
+File Table:  
+ 
+
+
+Program state
+ID: 1 
+Exe Stack: {print(v) | } 
+Sym Table: v->2,  
+Heap:  
+Output Console:  
+File Table:  
+ 
+
+
+Program state
+ID: 1 
+Exe Stack: {} 
+Sym Table: v->2,  
+Heap:  
+Output Console: 2  
+File Table:  
+ 
+
+
